@@ -38,6 +38,6 @@ public class D15PatikaDevJava101Odev12SayiSiralama {
                 } else
                     System.out.println(c + "<" + a + "<" + b);
             }
-        }
+        }   
     }
 }
