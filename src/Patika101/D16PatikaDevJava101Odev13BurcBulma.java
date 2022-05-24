@@ -110,12 +110,10 @@ public class D16PatikaDevJava101Odev13BurcBulma {
                 burc = "Oglak";
             } else
                 hata = true;
-        }
-        if (hata) {
-            System.out.println("Yanlis Gun Tercihi");
-        } else if (month > 12 || month < 1) {
-
+        }if ((month > 12) || (month < 1)){
             System.out.println("Hatali Ay Girisi");
+        }else if (hata) {
+            System.out.println("Hatali Gun Girisi");
         } else {
             System.out.println("Burcunuz : " + burc);
         }
