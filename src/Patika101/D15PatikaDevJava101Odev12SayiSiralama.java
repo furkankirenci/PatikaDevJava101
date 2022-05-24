@@ -17,7 +17,7 @@ public class D15PatikaDevJava101Odev12SayiSiralama {
         c = input.nextInt();
         if ((a == b) || (b == c) || (a == c)) {
             System.out.println("Sayilar Birbirine Esit Olmamalidir");
-        } else {
+        } else  {
             if ((a < b) && (a < c)) {
                 if (b < c) {
                     System.out.println(a + "<" + b + "<" + c);
@@ -38,6 +38,6 @@ public class D15PatikaDevJava101Odev12SayiSiralama {
                 } else
                     System.out.println(c + "<" + a + "<" + b);
             }
-        }   
+        }
     }
 }
