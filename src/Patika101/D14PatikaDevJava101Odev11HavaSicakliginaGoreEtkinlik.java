@@ -2,7 +2,7 @@ package Patika101;
 
 import java.util.Scanner;
 
-public class D14PatikaDevJava101Odev10HavaSicakliginaGoreEtkinlik {
+public class D14PatikaDevJava101Odev11HavaSicakliginaGoreEtkinlik {
     public static void main(String[] args) {
         int heat;
         Scanner input = new Scanner(System.in);
