@@ -25,7 +25,6 @@ public class D14PatikaDevJava101Odev10HavaSicakliginaGoreEtkinlik {
                 System.out.println("Kayak");
             }
 
-
         }
 
     }
