@@ -110,7 +110,7 @@ public class D16PatikaDevJava101Odev13BurcBulma {
                 burc = "Oglak";
             } else
                 hata = true;
-        } else {
+        } else  {
             System.out.println("Hatali Ay Girisi");
         }
         if (hata) {
