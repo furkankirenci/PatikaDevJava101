@@ -2,7 +2,7 @@ package Patika101;
 
 import java.util.Scanner;
 
-public class D31PatikaDevJava101Odev24YildizdanUcgen {
+public class D31PatikaDevJava101Odev24YildizdanElmas {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Sayi gir : ");
