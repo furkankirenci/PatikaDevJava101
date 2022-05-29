@@ -2,7 +2,7 @@ package Patika101;
 
 import java.util.Scanner;
 
-public class D12PatikaDevJava101Odev08KulaniciGirisi {
+public class D12PatikaDevJava101Odev09KulaniciGirisi {
     public static void main(String[] args) {
         String username, password;
         int secim;
