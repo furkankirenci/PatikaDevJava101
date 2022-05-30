@@ -2,7 +2,7 @@ package Patika101;
 
 import java.util.Scanner;
 
-public class D35PatikaDevJava101Odev28 {
+public class D35PatikaDevJava101Odev28MukemmelSayi {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
         System.out.print("Bir sayi giriniz : ");
