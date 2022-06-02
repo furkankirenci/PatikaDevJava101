@@ -11,7 +11,6 @@ public class D42PatikaDevJava101Odev34UsluSayilar {
         result = a * us(a, b - 1);
         return result;
     }
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Taban sayiyi giriniz : ");
