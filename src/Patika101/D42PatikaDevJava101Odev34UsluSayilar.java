@@ -2,7 +2,7 @@ package Patika101;
 
 import java.util.Scanner;
 
-public class D42patikaDevJava101Odev34UsluSayilar {
+public class D42PatikaDevJava101Odev34UsluSayilar {
     public static int us(int a, int b) {
         int result;
         if (b == 0) {
