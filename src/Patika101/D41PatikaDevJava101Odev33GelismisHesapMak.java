@@ -2,7 +2,7 @@ package Patika101;
 
 import java.util.Scanner;
 
-public class D41patikaDevJava101Odev33GelismisHesapMak {
+public class D41PatikaDevJava101Odev33GelismisHesapMak {
 
     static void toplama(int a, int b) {
         int result = a + b;
