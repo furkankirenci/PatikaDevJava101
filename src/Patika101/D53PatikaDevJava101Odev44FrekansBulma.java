@@ -3,6 +3,9 @@ package Patika101;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// örnekte "5 sayısı 1 kere tekrar edildi" yazıyo. Bir sayının tekrar edilmiş olması için en az 2 defa yazılmış olması gerekmez mi? 
+// Benim çözümümde sadece tekrarlı elemanların tekrar sayısı yazıyor. Liste elemanlarını da kullanıcıdan alıyorum.
+
 public class D53PatikaDevJava101Odev44FrekansBulma {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
